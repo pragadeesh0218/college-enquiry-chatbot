@@ -1,0 +1,1 @@
+This bot could assist students in navigating their academic journey, providing information on course selection, degree requirements, registration deadlines, and even offering study tips or resources for academic success 
